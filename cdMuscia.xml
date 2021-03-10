@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<ListaCd>
+    <CdMusica>
+        <tituloAlbun>The Dark Side of the Moon</tituloAlbun>
+        <artista>PinkFloyd</artista>
+        <cancion tiempo="1:07">Speak to Me</cancion>
+        <cancion tiempo="2:49">Breathe</cancion>
+        <cancion tiempo="3:45">On the Run</cancion>
+        <cancion tiempo="6:53">Time</cancion>
+        <cancion tiempo="4:44">The Great Gig in the Sky</cancion>
+        <cancion tiempo="6:23">Money</cancion>
+        <cancion tiempo="7:49">Us and Them</cancion>
+        <cancion tiempo="3:26">Any Colour You Like</cancion>
+        <cancion tiempo="3:46">Brain Damage</cancion>
+        <cancion tiempo="2:12">Eclipse</cancion>
+        <selloDiscografico>Abbey Road Studios</selloDiscografico>
+        <añoPublicacion>1973</añoPublicacion>>
+    </CdMusica>
+    <CdMusica>
+        <tituloAlbun>Pulse</tituloAlbun>
+        <artista>PinkFloyd</artista>
+        <cancion>
+        <cancion tiempo="13:35">Shine on You Crazy Diamond Parte I–V, VII</cancion>
+        <cancion tiempo="4:20">Astronomy Domine</cancion>
+        <cancion tiempo="4:10">What Do You Want from Me</cancion>
+        <cancion tiempo="5:16">Learning to Fly</cancion>
+        <cancion tiempo="6:52">Keep Talking</cancion>
+        <cancion tiempo="6:56">Coming Back to Life</cancion>
+        <cancion tiempo="4:40">Hey You</cancion>
+        <cancion tiempo="4:30">A Great Day for Freedom</cancion>
+        <cancion tiempo="10:49">Sorrow</cancion>
+        <cancion tiempo="7:52">High Hopes</cancion>
+        <cancion tiempo="7:08">Another Brick in the Wall (Part II)</cancion>
+        <cancion tiempo="2:30">Speak to Me</cancion>
+        <cancion tiempo="2:33">Breathe</cancion>
+        <cancion tiempo="3:48">On the Run</cancion>
+        <cancion tiempo="6:47">Time</cancion>
+        <cancion tiempo="5:52">The Great Gig in the Sky</cancion>
+        <cancion tiempo="8:54">Money</cancion>
+        <cancion tiempo="6:58">Us and Them</cancion>
+        <cancion tiempo="3:21">Any Colour You Like</cancion>
+        <cancion tiempo="3:46">Brain Damage</cancion>
+        <cancion tiempo="2:38">Eclipse</cancion>
+        <cancion tiempo="6:35">Wish You Were Here</cancion>
+        <cancion tiempo="9:29">Comfortably Numb</cancion>
+        <cancion tiempo="8:36">Run Like Hell</cancion>
+        </cancion>
+        <selloDiscografico>Columbia Records</selloDiscografico>
+        <añoPublicacion>1995</añoPublicacion>
+    </CdMusica>
+    <CdMusica>
+        <tituloAlbun>Agila</tituloAlbun>
+        <artista>Extremoduro</artista>
+        <cancion tiempo="4:14">Buscando una luna</cancion>
+        <cancion tiempo="3:30">Prometeo</cancion>
+        <cancion tiempo="3:03">Sucede</cancion>
+        <cancion tiempo="4:43">So payaso</cancion>
+        <cancion tiempo="4:43">El día de la Bestia</cancion>
+        <cancion tiempo="1:26">Tomás</cancion>
+        <cancion tiempo="3:06">¡Qué sonrisa tan rara!</cancion>
+        <cancion tiempo="3:40">Cabezabajo</cancion>
+        <cancion tiempo="3:22">Ábreme el pecho y registra</cancion>
+        <cancion tiempo="4:17">Todos me dicen</cancion>
+        <cancion tiempo="2:33">Correcaminos, estate al loro</cancion>
+        <cancion tiempo="2:15">La carrera</cancion>
+        <cancion tiempo="2:10">Me estoy quitando</cancion>
+        <selloDiscografico>DRO</selloDiscografico>
+        <añoPublicacion>1996</añoPublicacion>
+    </CdMusica>
+    <CdMusica>
+        <tituloAlbun>Toxicity</tituloAlbun>
+        <artista>System of a Down</artista>
+        <cancion tiempo="3:22">Prison Song</cancion>
+        <cancion tiempo="3:13">Needles</cancion>
+        <cancion tiempo="2:56">Deer Dance</cancion>
+        <cancion tiempo="2:06">Jet Pilot</cancion>
+        <cancion tiempo="1:58">X</cancion>
+        <cancion tiempo="3:31">Chop Suey!</cancion>
+        <cancion tiempo="1:55">Bounce</cancion>
+        <cancion tiempo="4:01">Forest</cancion>
+        <cancion tiempo="2:59">ATWA</cancion>
+        <cancion tiempo="2:43">Science</cancion>
+        <cancion tiempo="1:52">Shimmy</cancion>
+        <cancion tiempo="3:39">Toxicity</cancion>
+        <cancion tiempo="3:48">Psycho</cancion>
+        <cancion tiempo="3:56">Aerials</cancion>
+        <cancion tiempo="2:09">Johnny</cancion>
+        <cancion tiempo="2:27">Sugar</cancion>
+        <cancion tiempo="2:48">War?</cancion>
+        <cancion tiempo="2:58">Suite-Pee</cancion>
+        <cancion tiempo="3:03">Know</cancion>
+        <selloDiscografico>American Recordings</selloDiscografico>
+        <añoPublicacion>2001</añoPublicacion>
+        </CdMusica>
+    <CdMusica>
+        <tituloAlbun>Chinchon</tituloAlbun>
+        <artista>Rita la cantaora</artista>
+        <cancion tiempo="2:12">Pena</cancion>
+        <cancion tiempo="1:60">Copla 1</cancion>
+        <cancion tiempo="4:25">Copla 2</cancion>
+        <cancion tiempo="6:06">Buleria 1</cancion>
+        <cancion tiempo="2:20">Buleria 2</cancion>
+        <cancion tiempo="3:30">Buleria 3</cancion>
+        <cancion tiempo="2:25">Sevillanas 1</cancion>
+        <cancion tiempo="4:21">Sevillanas 2</cancion>
+        <selloDiscografico>MrProduction</selloDiscografico>
+        <añoPublicacion>1995</añoPublicacion>
+    </CdMusica>
+    <CdMusica>
+        <tituloAlbun>Tiempo</tituloAlbun>
+        <artista>Juan Carrito</artista>
+        <cancion tiempo="2:22">Segundos</cancion>
+        <cancion tiempo="3:20">Minutos</cancion>
+        <cancion tiempo="7:15">Horas</cancion>
+        <cancion tiempo="2:06">Dias</cancion>
+        <cancion tiempo="3:25">Semanas</cancion>
+        <cancion tiempo="2:20">Meses</cancion>
+        <cancion tiempo="3:15">Años</cancion>
+        <cancion tiempo="2:01">Lustros</cancion>
+        <selloDiscografico>MrProduction</selloDiscografico>
+        <añoPublicacion>2000</añoPublicacion>
+    </CdMusica>
+    <CdMusica>
+        <tituloAlbun>Dias</tituloAlbun>
+        <artista>Raimundo Amador</artista>
+        <cancion tiempo="2:33">Lunes</cancion>
+        <cancion tiempo="2:10">Martes</cancion>
+        <cancion tiempo="1:60">Miercoles</cancion>
+        <cancion tiempo="12:30">Jueves</cancion>
+        <cancion tiempo="7:15">Viernes</cancion>
+        <cancion tiempo="6:10">Sabado</cancion>
+        <cancion tiempo="2:00">Domingo</cancion>
+        <selloDiscografico>Sr Discografia</selloDiscografico>
+        <añoPublicacion>2002</añoPublicacion>
+    </CdMusica>
+    <CdMusica>
+        <tituloAlbun>Años 1</tituloAlbun>
+        <artista>Raimundo Amador</artista>
+        <cancion tiempo="5:21">Enero</cancion>
+        <cancion tiempo="3:25">Febrero</cancion>
+        <cancion tiempo="4:20">Marzo</cancion>
+        <cancion tiempo="3:20">Abril</cancion>
+        <cancion tiempo="5:20">Mayo</cancion>
+        <cancion tiempo="2:30">Junio</cancion>
+        <selloDiscografico>Sr Discografia</selloDiscografico>
+        <añoPublicacion>2006</añoPublicacion>
+    </CdMusica>
+    <CdMusica>
+        <tituloAlbun>Años 2</tituloAlbun>
+        <artista>Raimundo Amador</artista>
+        <cancion tiempo="4:23">Julio</cancion>
+        <cancion tiempo="5:30">Agosto</cancion>
+        <cancion tiempo="3:60">Septiembre</cancion>
+        <cancion tiempo="1:60">Octubre</cancion>
+        <cancion tiempo="3:50">Noviembre</cancion>
+        <cancion tiempo="2:20">Diciembre</cancion>
+        <selloDiscografico>Sr Discografia</selloDiscografico>
+        <añoPublicacion>2007</añoPublicacion>
+    </CdMusica>
+    <CdMusica>
+        <tituloAlbun>Futbol</tituloAlbun>
+        <artista>Pepe Viyuela</artista>
+        <cancion tiempo="4:00">Real Betis</cancion>
+        <cancion tiempo="1:60">Barcelona</cancion>
+        <cancion tiempo="13:00">Cádiz</cancion>
+        <cancion tiempo="12:00">Real Madrid</cancion>
+        <cancion tiempo="6:30">Sevilla</cancion>
+        <cancion tiempo="5:00">Athletic de Bilbao</cancion>
+        <selloDiscografico>LFP</selloDiscografico>
+        <añoPublicacion>2021</añoPublicacion>
+    </CdMusica>
+</ListaCd>
