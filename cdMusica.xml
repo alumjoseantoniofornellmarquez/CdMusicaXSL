@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
 <ListaCd>
     <CdMusica>
@@ -20,7 +20,6 @@
     <CdMusica>
         <tituloAlbun>Pulse</tituloAlbun>
         <artista>PinkFloyd</artista>
-        <cancion>
         <cancion tiempo="13:35">Shine on You Crazy Diamond Parte I–V, VII</cancion>
         <cancion tiempo="4:20">Astronomy Domine</cancion>
         <cancion tiempo="4:10">What Do You Want from Me</cancion>
@@ -45,7 +44,6 @@
         <cancion tiempo="6:35">Wish You Were Here</cancion>
         <cancion tiempo="9:29">Comfortably Numb</cancion>
         <cancion tiempo="8:36">Run Like Hell</cancion>
-        </cancion>
         <selloDiscografico>Columbia Records</selloDiscografico>
         <añoPublicacion>1995</añoPublicacion>
     </CdMusica>
