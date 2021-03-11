@@ -4,8 +4,8 @@
 <xsl:template match="/">
     <html>
     <body>
-    <h1>Discos de Musica</h1>
-        <table>
+    <h1>Discos de musica que duran menos de <xsl:value-of select="$tiempo"/></h1>
+        <table border="1">
         <tr bgcolor="#707887">
             <th>Titulo Albun</th>
             <th>Artista</th>
@@ -14,7 +14,7 @@
             <th>Canciones</th>
         </tr>
         <xsl:for-each select="ListaCd/CdMusica">
-        <xsl:if test="cancion/@tiempo &gt; $tiempo">
+        <xsl:if test="(substring-before(cancion/@tiempo, ':')*60 + substring-after(cancion/@tiempo,':')) &lt; (substring-before($tiempo, ':')*60 + substring-after($tiempo,':'))">
         <tr>
             <td><xsl:value-of select="tituloAlbun"/></td>
             <td><xsl:value-of select="artista"/></td>
