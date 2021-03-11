@@ -12,7 +12,8 @@
             <th>Año de Publicación</th>
             <th>Canciones</th>
         </tr>
-        <xsl:for-each select="ListaCd/CdMusica">
+        <xsl:for-each select="ListaCd/CdMusica[artista='Extremoduro']">
+        <xsl:sort select="cancion"/>
         <tr>
             <td><xsl:value-of select="tituloAlbun"/></td>
             <td><xsl:value-of select="artista"/></td>
