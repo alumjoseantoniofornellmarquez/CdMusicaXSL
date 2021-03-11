@@ -12,21 +12,17 @@
             <th>Sello Discografico</th>
             <th>Año de Publicación</th>
             <th>Canciones</th>
+            <th>Tiempo</th>
         </tr>
-        <xsl:for-each select="ListaCd/CdMusica">
-        <xsl:if test="(substring-before(cancion/@tiempo, ':')*60 + substring-after(cancion/@tiempo,':')) &lt; (substring-before($tiempo, ':')*60 + substring-after($tiempo,':'))">
-        <tr>
-            <td><xsl:value-of select="tituloAlbun"/></td>
-            <td><xsl:value-of select="artista"/></td>
-            <td><xsl:value-of select="selloDiscografico"/></td>
-            <td><xsl:value-of select="añoPublicacion"/></td>
-            <td>
-                <ol>
-                <xsl:for-each select="cancion">
-                <li><xsl:value-of select="."/></li>
-                </xsl:for-each>
-                </ol>
-            </td>
+        <xsl:for-each select="ListaCd/CdMusica/cancion">
+        <xsl:if test="(substring-before(./@tiempo, ':')*60 + substring-after(./@tiempo,':')) &lt; (substring-before($tiempo, ':')*60 + substring-after($tiempo,':'))">
+        <tr> 
+            <td><xsl:value-of select="../tituloAlbun"/></td>
+            <td><xsl:value-of select="../artista"/></td>
+            <td><xsl:value-of select="../selloDiscografico"/></td>
+            <td><xsl:value-of select="../añoPublicacion"/></td>
+            <td><xsl:value-of select="."/></td>
+            <td><xsl:value-of select="./@tiempo"/></td>
         </tr>
         </xsl:if>
         </xsl:for-each>
